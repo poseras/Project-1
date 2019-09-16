@@ -1,0 +1,11 @@
+C:\Users\Poseras\Desktop\Project\MonitorAndKill\bin\Debug\netcoreapp2.1\MonitorAndKill.deps.json
+C:\Users\Poseras\Desktop\Project\MonitorAndKill\bin\Debug\netcoreapp2.1\MonitorAndKill.runtimeconfig.json
+C:\Users\Poseras\Desktop\Project\MonitorAndKill\bin\Debug\netcoreapp2.1\MonitorAndKill.runtimeconfig.dev.json
+C:\Users\Poseras\Desktop\Project\MonitorAndKill\bin\Debug\netcoreapp2.1\MonitorAndKill.dll
+C:\Users\Poseras\Desktop\Project\MonitorAndKill\bin\Debug\netcoreapp2.1\MonitorAndKill.pdb
+C:\Users\Poseras\Desktop\Project\MonitorAndKill\obj\Debug\netcoreapp2.1\MonitorAndKill.csprojAssemblyReference.cache
+C:\Users\Poseras\Desktop\Project\MonitorAndKill\obj\Debug\netcoreapp2.1\MonitorAndKill.csproj.CoreCompileInputs.cache
+C:\Users\Poseras\Desktop\Project\MonitorAndKill\obj\Debug\netcoreapp2.1\MonitorAndKill.AssemblyInfoInputs.cache
+C:\Users\Poseras\Desktop\Project\MonitorAndKill\obj\Debug\netcoreapp2.1\MonitorAndKill.AssemblyInfo.cs
+C:\Users\Poseras\Desktop\Project\MonitorAndKill\obj\Debug\netcoreapp2.1\MonitorAndKill.dll
+C:\Users\Poseras\Desktop\Project\MonitorAndKill\obj\Debug\netcoreapp2.1\MonitorAndKill.pdb
